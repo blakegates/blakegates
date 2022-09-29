@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blakegates
 - 👀 I’m interested in Information & Network Security
-- 🌱 I’m currently learning Python for Hacking
-- 💞️ I’m looking to collaborate on pretty much anything lol
+- 🌱 I’m currently learning the #Go programming language
+- 💞️ I’m looking to collaborate on pretty much anything I can
 
 <!---
 blakegates/blakegates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
